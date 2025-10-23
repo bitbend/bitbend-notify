@@ -1,6 +1,6 @@
 # BitBend OS
 
-Looking for easy to use backend infrastructure look no further than BitBend OS
+Looking for easy to use data movement infrastructure look no further than BitBend Flow
 
 Built With 💖 by BitBend
 
