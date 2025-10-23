@@ -1,4 +1,4 @@
-# BitBend OS
+# BitBend Flow
 
 Looking for easy to use data movement infrastructure look no further than BitBend Flow
 
